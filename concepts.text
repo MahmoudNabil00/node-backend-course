@@ -1,0 +1,8 @@
+Node js is a single thread so if thousands of users trying to access the website the code will be execute in the same thread 
+
+Synchronous code will block others
+
+Asynchronous code will not block others 
+
+we have two stack one for single thread and other for background execution
+

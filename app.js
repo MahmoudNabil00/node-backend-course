@@ -64,6 +64,7 @@ const http = require('http');
 // // Create a server using http module(req:Data from client, response:Data to client)
 
 const template =  fs.readFileSync('./templates/index.html', 'utf-8', (err, data) => {
+    // SYNC code does not use callback function
     console.log(data)
 })
 const server = http.createServer((request, response)=>{

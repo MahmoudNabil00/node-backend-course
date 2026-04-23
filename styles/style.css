@@ -1,6 +1,14 @@
-.header{
-    background-color: #60b84a;
-    color: #fff;
-    padding: 10px;
-    text-align: center;
+:root{
+    --primary-color: #ffd900;
+    --secondary-color: #333;
+    --text-color: #fff;
+    --background-color: #f0f0f0;
+    --border-color: #ccc;
+    --font-family: 'Arial', sans-serif;
+    --font-size: 16px;
+    --font-weight: 400;
+    --font-style: normal;
+    --font-variant: small-caps;
+    --font-stretch: condensed;
+    --font-kerning: normal;
 }

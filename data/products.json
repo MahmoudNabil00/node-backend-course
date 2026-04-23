@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Apple MacBook Air M3 13-inch",
+        "price": 1199,
+        "description": "Lightweight laptop with M3 chip, 16GB unified memory, and 512GB SSD for daily productivity and development tasks.",
+        "image": "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 2,
+        "name": "Sony WH-1000XM5 Headphones",
+        "price": 349,
+        "description": "Premium wireless noise-canceling headphones with long battery life and crystal-clear call quality.",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Samsung 27-inch 4K Monitor",
+        "price": 399,
+        "description": "Ultra HD monitor with vivid color accuracy and ergonomic stand, ideal for coding, design, and media.",
+        "image": "https://images.unsplash.com/photo-1527443224154-c4b45139f64d?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 4,
+        "name": "Logitech MX Master 3S Mouse",
+        "price": 99,
+        "description": "Ergonomic wireless mouse with silent clicks, customizable buttons, and precise tracking on almost any surface.",
+        "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 5,
+        "name": "Keychron K8 Pro Mechanical Keyboard",
+        "price": 129,
+        "description": "Wireless mechanical keyboard with hot-swappable switches, RGB backlight, and Mac/Windows compatibility.",
+        "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 6,
+        "name": "Anker 737 Power Bank",
+        "price": 149,
+        "description": "High-capacity portable charger with fast USB-C charging support for laptops, tablets, and phones.",
+        "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 7,
+        "name": "Fitbit Charge 6",
+        "price": 159,
+        "description": "Health and fitness tracker with heart-rate monitoring, sleep insights, and built-in GPS.",
+        "image": "https://images.unsplash.com/photo-1510017803434-a899398421b3?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 8,
+        "name": "Nikon Z fc Mirrorless Camera",
+        "price": 956,
+        "description": "Retro-style mirrorless camera with 20.9MP sensor, 4K video recording, and excellent low-light performance.",
+        "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80"
+    }
+]
